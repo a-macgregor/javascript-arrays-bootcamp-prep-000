@@ -17,5 +17,5 @@ function addElementToEndOfArray(array, element) {
 
 //Test 4 
 function destructivelyAddElementToEndOfArray(array, element) {
-  array = [array..., `${element}`];
+  array = [...array, `${element}`];
 }
