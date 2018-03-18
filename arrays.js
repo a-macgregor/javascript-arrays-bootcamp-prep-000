@@ -5,5 +5,5 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  [`${element}`, ...array];
+  var chocolateBars = [`${element}`, ...array];
 }
