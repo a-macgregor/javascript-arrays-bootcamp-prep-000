@@ -11,3 +11,6 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 }
 
 //Test 3 
+function addElementToEndOfArray(array, element) {
+  [array.psuh]
+}
